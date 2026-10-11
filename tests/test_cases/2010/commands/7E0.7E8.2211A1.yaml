@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211A1
+test_cases:
+- expected_values:
+    DTS_RUNTM_7E0: 0
+  response: 7E8056211A10000
+- expected_values:
+    DTS_RUNTM_7E0: 766
+  response: 7E8056211A102FE
+- expected_values:
+    DTS_RUNTM_7E0: 1818
+  response: 7E8056211A1071A

@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Cadillac_DTS"
+
+generations:
+  - name: "DTS"
+    start_year: 2006
+    end_year: 2011
+    description: "A full-size sedan on the G platform with the 4.6 L Northstar V8."
